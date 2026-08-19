@@ -1,6 +1,6 @@
 Drop 5 screenshots here:
 
-- `main_lobby.png` (categories page)
+- `main_lobb.png` (categories page)
 - `lobby.png` (huroof lobby)
 - `huroof.png`
 - `career.png`

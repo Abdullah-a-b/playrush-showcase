@@ -15,7 +15,7 @@ or random opponents across a set of quiz-style games, on the web or a native And
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main_lobby.png" width="18%" alt="Categories" />
+  <img src="screenshots/main_lobb.png" width="18%" alt="Categories" />
   <img src="screenshots/lobby.png" width="18%" alt="Huroof lobby" />
   <img src="screenshots/huroof.png" width="18%" alt="Huroof game" />
   <img src="screenshots/career.png" width="18%" alt="Career game" />
@@ -153,7 +153,7 @@ migration path already designed in.
 
 ## Maintaining this showcase
 
-To add real screenshots: drop PNGs into `screenshots/` named `main_lobby.png`, `lobby.png`,
+To add real screenshots: drop PNGs into `screenshots/` named `main_lobb.png`, `lobby.png`,
 `huroof.png`, `career.png`, `profile.png` (or edit the `<img>` tags above to match whatever you add).
 
 ## Contact

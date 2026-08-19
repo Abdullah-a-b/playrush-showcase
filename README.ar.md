@@ -12,7 +12,7 @@
 ## لقطات شاشة
 
 <p align="center">
-  <img src="screenshots/main_lobby.png" width="18%" alt="ساحة المعركة" />
+  <img src="screenshots/main_lobb.png" width="18%" alt="ساحة المعركة" />
   <img src="screenshots/lobby.png" width="18%" alt="لوبي خلية الحروف" />
   <img src="screenshots/huroof.png" width="18%" alt="خلية الحروف" />
   <img src="screenshots/career.png" width="18%" alt="مسيرة لاعب" />
@@ -141,7 +141,7 @@ async def handle_disconnection_timeout(room_code, old_sid):
 
 ## صيانة هذا العرض
 
-لإضافة لقطات شاشة حقيقية: حط ملفات PNG بمجلد `screenshots/` بأسماء `main_lobby.png`، `lobby.png`،
+لإضافة لقطات شاشة حقيقية: حط ملفات PNG بمجلد `screenshots/` بأسماء `main_lobb.png`، `lobby.png`،
 `huroof.png`، `career.png`، `profile.png` (أو عدّل وسوم `<img>` أعلاه حسب اللي تضيفه).
 
 ## تواصل
