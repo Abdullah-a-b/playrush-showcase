@@ -15,10 +15,11 @@ or random opponents across a set of quiz-style games, on the web or a native And
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/lobby.png" width="23%" alt="Lobby" />
-  <img src="screenshots/huroof.png" width="23%" alt="Huroof game" />
-  <img src="screenshots/career.png" width="23%" alt="Career game" />
-  <img src="screenshots/profile.png" width="23%" alt="Profile" />
+  <img src="screenshots/main_lobby.png" width="18%" alt="Categories" />
+  <img src="screenshots/lobby.png" width="18%" alt="Huroof lobby" />
+  <img src="screenshots/huroof.png" width="18%" alt="Huroof game" />
+  <img src="screenshots/career.png" width="18%" alt="Career game" />
+  <img src="screenshots/profile.png" width="18%" alt="Profile" />
 </p>
 
 *(add real screenshots to `screenshots/` — see the maintenance note at the bottom)*
@@ -152,8 +153,8 @@ migration path already designed in.
 
 ## Maintaining this showcase
 
-To add real screenshots: drop PNGs into `screenshots/` named `lobby.png`, `huroof.png`,
-`career.png`, `profile.png` (or edit the `<img>` tags above to match whatever you add).
+To add real screenshots: drop PNGs into `screenshots/` named `main_lobby.png`, `lobby.png`,
+`huroof.png`, `career.png`, `profile.png` (or edit the `<img>` tags above to match whatever you add).
 
 ## Contact
 
